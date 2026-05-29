@@ -11,9 +11,7 @@ use Illuminate\Support\Facades\Hash;
 
 class AuthController extends Controller
 {
-    /**
-     * Register a new user and generate a JWT token.
-     */
+   
     public function register(RegisterRequest $request)
     {
         // dd($request->all());

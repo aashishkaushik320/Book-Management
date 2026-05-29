@@ -96,9 +96,7 @@ class BookController extends Controller
         }
     }
 
-    /**
-     * Display a specific book.
-     */
+   
     public function show($id)
     {
         $book = Book::find($id);
