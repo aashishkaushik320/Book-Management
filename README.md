@@ -1,6 +1,6 @@
 # Book Management API (Laravel 11 + JWT)
 
-A clean, practical, and fully verified REST API backend built with Laravel 11 for interview assessment purposes. The project implements JWT authentication alongside Books CRUD operations, utilizing standard Laravel conventions (Form Requests, Eloquent, Soft Deletes, Pagination, and DB Transactions) without over-engineering or unnecessary layers.
+A clean, practical, and fully verified REST API backend built with Laravel 11 . The project implements JWT authentication alongside Books CRUD operations, utilizing standard Laravel conventions (Form Requests, Eloquent, Soft Deletes, Pagination, and DB Transactions) without over-engineering or unnecessary layers.
 
 ---
 
@@ -18,6 +18,7 @@ A clean, practical, and fully verified REST API backend built with Laravel 11 fo
 ##  Installation
 
 Follow these steps to spin up the application in your local environment:
+clone or download the zip file.
 
 ### 1. Clone & Install Dependencies
 First, install the composer packages:
